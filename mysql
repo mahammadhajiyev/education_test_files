@@ -1,2 +1,0 @@
-/usr/libexec/mariadb-prepare-db-dir
-/usr/bin/mysqld_safe --basedir=/usr &
